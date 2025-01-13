@@ -148,4 +148,10 @@
   <data name="Privacy Policy Details" xml:space="preserve">
     <value>Verwenden Sie diese Seite, um die Datenschutzrichtlinien Ihrer Website zu detaillieren.</value>
   </data>
+  <data name="Contact Us" xml:space="preserve">
+    <value>Kontaktieren Sie uns</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>Einreichen</value>
+  </data>
 </root>
